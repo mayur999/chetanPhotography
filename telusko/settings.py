@@ -79,11 +79,11 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'telusko',
         'USER' : 'postgres',
-        'PASSWORD' : 'mayur9273',
-        'HOST': 'django-aws-chetanbhoirphotography.cs80smckgibo.us-east-1.rds.amazonaws.com'
+        'PASSWORD' : '1234',
+        'HOST': 'localhost'        
     }
 }
-
+# 'HOST': 'django-aws-chetanbhoirphotography.cs80smckgibo.us-east-1.rds.amazonaws.com'
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
