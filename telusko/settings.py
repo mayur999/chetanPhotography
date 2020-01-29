@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'telusko',
         'USER' : 'postgres1',
         'PASSWORD' : '1234',
-        'HOST': 'localhost'        
+        'HOST': 'django-aws-chetanbhoirphotography.cs80smckgibo.us-east-1.rds.amazonaws.com'        
     }
 }
 # 'HOST': 'django-aws-chetanbhoirphotography.cs80smckgibo.us-east-1.rds.amazonaws.com'
